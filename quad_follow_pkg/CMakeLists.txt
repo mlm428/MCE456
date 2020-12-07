@@ -1,3 +1,6 @@
+### This is a test of the program update ###
+### Will this update via Github desktop??? ###
+
 cmake_minimum_required(VERSION 3.0.2)
 project(quad_follow_pkg)
 
